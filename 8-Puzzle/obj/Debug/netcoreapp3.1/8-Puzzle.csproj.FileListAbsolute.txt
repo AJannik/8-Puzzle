@@ -1,0 +1,13 @@
+D:\Studium\KI\Uebungen\6.6\8-Puzzle\8-Puzzle\bin\Debug\netcoreapp3.1\8-Puzzle.exe
+D:\Studium\KI\Uebungen\6.6\8-Puzzle\8-Puzzle\bin\Debug\netcoreapp3.1\8-Puzzle.deps.json
+D:\Studium\KI\Uebungen\6.6\8-Puzzle\8-Puzzle\bin\Debug\netcoreapp3.1\8-Puzzle.runtimeconfig.json
+D:\Studium\KI\Uebungen\6.6\8-Puzzle\8-Puzzle\bin\Debug\netcoreapp3.1\8-Puzzle.runtimeconfig.dev.json
+D:\Studium\KI\Uebungen\6.6\8-Puzzle\8-Puzzle\bin\Debug\netcoreapp3.1\8-Puzzle.dll
+D:\Studium\KI\Uebungen\6.6\8-Puzzle\8-Puzzle\bin\Debug\netcoreapp3.1\8-Puzzle.pdb
+D:\Studium\KI\Uebungen\6.6\8-Puzzle\8-Puzzle\obj\Debug\netcoreapp3.1\8-Puzzle.csprojAssemblyReference.cache
+D:\Studium\KI\Uebungen\6.6\8-Puzzle\8-Puzzle\obj\Debug\netcoreapp3.1\8-Puzzle.AssemblyInfoInputs.cache
+D:\Studium\KI\Uebungen\6.6\8-Puzzle\8-Puzzle\obj\Debug\netcoreapp3.1\8-Puzzle.AssemblyInfo.cs
+D:\Studium\KI\Uebungen\6.6\8-Puzzle\8-Puzzle\obj\Debug\netcoreapp3.1\8-Puzzle.csproj.CoreCompileInputs.cache
+D:\Studium\KI\Uebungen\6.6\8-Puzzle\8-Puzzle\obj\Debug\netcoreapp3.1\8-Puzzle.dll
+D:\Studium\KI\Uebungen\6.6\8-Puzzle\8-Puzzle\obj\Debug\netcoreapp3.1\8-Puzzle.pdb
+D:\Studium\KI\Uebungen\6.6\8-Puzzle\8-Puzzle\obj\Debug\netcoreapp3.1\8-Puzzle.genruntimeconfig.cache

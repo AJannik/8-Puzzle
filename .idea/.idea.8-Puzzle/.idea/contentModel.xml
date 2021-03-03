@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\janni\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\janni\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_8-Puzzle.-1231260910.00" t="ExcludeRecursive" />
+    <e p="D:\Studium\KI\Uebungen\Kapitel 6\8-Puzzle" t="IncludeFlat">
+      <e p="8-Puzzle" t="IncludeRecursive">
+        <e p="8-Puzzle.csproj" t="IncludeRecursive" />
+        <e p="A_Star.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BreadthFirst.cs" t="Include" />
+        <e p="Control.cs" t="Include" />
+        <e p="DepthFirst.cs" t="Include" />
+        <e p="IterativeDeepening.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="8-Puzzle.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Start.cs" t="Include" />
+        <e p="Vertex.cs" t="Include" />
+      </e>
+      <e p="8-Puzzle.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
